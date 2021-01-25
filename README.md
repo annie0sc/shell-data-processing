@@ -1,7 +1,6 @@
 # Hello! This stores my notes for big data.
-- This is a bulleten list
 
-``` Java code
-System.out.println("This is Java code");```
+- I have used the following URL for collecting data for processing:
+``` https://www.hymnal.net/en/hymn/h/313
+```
 
-- URL: https://www.hymnal.net/en/hymn/h/313
